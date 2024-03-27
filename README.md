@@ -1,2 +1,2 @@
 # kensha-tools
-Tools to make the most of your facebook messenger data.
+Tools to make the most out of your facebook messenger data.
